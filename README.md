@@ -9,5 +9,5 @@ Belajar Kelas Dasar Git dengan Github
 17 Agustus 2023
 Memulai Dasar Pemrograman untuk Menjadi Pengembang Software
 * Deadline 18 Agustus 2023
-* Masih ada satu materi lagi "Pengenalan ke Logika Pemrograman"
+* Masih ada satu materi lagi "Pengenalan ke Logika Pemrograman (progress masih 0)"
   
